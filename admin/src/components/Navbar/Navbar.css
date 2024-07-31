@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.navbar .logo h1{
+    /* width: max(10%, 80px); */
+    color: tomato;
+}
+.navbar .logo h5{
+    color: gray;
+}
+.navbar .profile{
+    width: 40px;
+}

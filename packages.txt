@@ -1,0 +1,18 @@
+Frontend
+
+npm create vite@latest
+npm i react-router-dom
+npm install react-slick --save
+npm install axios
+
+Backend
+npm init
+npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+
+Mongodb
+username?: ostiarun55
+pw: Myfoodorder123
+
+Admin Dashboard
+npm create vite@latest
+ npm install axios react-toastify react-router-dom
